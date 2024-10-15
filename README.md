@@ -1,4 +1,3 @@
-# Progetto-Reti-Logiche-2023
-La specifica chiede di implementare un modulo HW (descritto in VHDL) che si interfacci con una memoria e che rispetti le indicazioni riportate nella seguente specifica.
-Ad elevato livello di astrazione, il sistema riceve indicazioni circa una locazione di memoria, il cui contenuto deve essere indirizzato verso un canale di uscita fra i quattro disponibili.
-Le indicazioni circa il canale da utilizzare e l’indirizzo di memoria a cui accedere vengono forniti mediante un ingresso seriale da un bit, mentre le uscite del sistema, ovvero i succitati canali, forniscono tutti i bit della parola di memoria in parallelo.
+Logic-Networks-2022-2023
+
+The specification requires the implementation of a hardware module (described in VHDL) that interfaces with memory and adheres to the instructions provided in the following specification. At a high level of abstraction, the system receives instructions regarding a memory location, the content of which must be directed to one of four available output channels. The instructions about which channel to use and the memory address to access are provided via a one-bit serial input, while the system’s outputs, i.e., the aforementioned channels, provide all the bits of the memory word in parallel.
