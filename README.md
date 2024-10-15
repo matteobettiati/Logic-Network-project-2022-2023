@@ -1,3 +1,3 @@
-Logic-Networks-2022-2023
+# Logic-Networks-2022-2023
 
 The specification requires the implementation of a hardware module (described in VHDL) that interfaces with memory and adheres to the instructions provided in the following specification. At a high level of abstraction, the system receives instructions regarding a memory location, the content of which must be directed to one of four available output channels. The instructions about which channel to use and the memory address to access are provided via a one-bit serial input, while the system’s outputs, i.e., the aforementioned channels, provide all the bits of the memory word in parallel.
